@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0-dev",
+  "notes": "Urai Portal v0.1.0-dev",
+  "pub_date": "2026-04-10T17:39:27Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTODZMb1FtaGYvVGpnbTZ0U0pKeFduZ29adlAyT0tNdkFUMEZOMDJBSDgrT3hKei9BWWppK2p4anpNTHVKQTdTRXhGbThwcUE4eG1lZ3RmOGVCekx1cUhSVHRnaWZhL3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1ODQyNzM0CWZpbGU6VXJhaSBQb3J0YWwuYXBwLnRhci5negppdE44WFBoSlY3L1AzcGNSY1JwU24xZCtuRWp1VnY4eDN6bVZTVDE4eG1JTmxSV1hpek1Hbk93MTdsVy9TMlpMNjVWaDdVR3g3bDltZHZzY3VOdXpEdz09Cg==",
+      "url": "https://github.com/uraiai/urai-portal/releases/download/v0.1.0-dev/Urai Portal.app.tar.gz"
+    }
+  }
+}
